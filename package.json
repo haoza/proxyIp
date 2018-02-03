@@ -1,0 +1,16 @@
+{
+  "name": "proxyIp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "async": "^2.6.0",
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.19",
+    "mysql": "^2.12.0",
+    "mysql2": "^1.5.1",
+    "node-uuid": "^1.4.8",
+    "request": "^2.83.0",
+    "sequelize": "^4.29.0"
+  }
+}
